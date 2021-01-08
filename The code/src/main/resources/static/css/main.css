@@ -1,0 +1,19 @@
+.wrapper{
+    width: 300px;
+    margin: auto;
+    margin-top: 100px;
+}
+.wrapper p{
+    width: 300px;
+    color: red;
+    font-family: "Italic Outline Art";
+}
+form{
+    width: 300px;
+}
+form label{
+    width: 300px;
+}
+form label input{
+    width: 300px;
+}
