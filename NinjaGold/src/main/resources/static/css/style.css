@@ -1,0 +1,45 @@
+.container{
+    margin-left: 10px;
+    display: inline-block;
+}
+
+
+.selection_box{
+    padding-top: 10px;
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border: solid 2px black;
+}
+
+.box_selection_container{
+    text-align: center;
+}
+
+button{
+    margin-top: 20px;
+}
+
+#text_area{
+    height: 200px;
+    width: 800px;
+    border: solid 2px black;
+    overflow: scroll;
+}
+
+.activity{
+    margin-left: 120px;
+}
+
+.green{
+    color: green;
+}
+
+.red{
+    color: red;
+}
+
+.startagain{
+    margin-left: 380px;
+}
