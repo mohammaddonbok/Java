@@ -1,0 +1,52 @@
+
+#wrapper {
+    padding-left: 70px;
+    background-color: black;
+    height: 1000px;
+}
+h1 {
+    text-align: center;
+    padding-top: 10px;
+    padding-right: 50px;
+}
+#register {
+    width: 500px;
+    margin: 20px;
+    padding: 22px;
+    background-color: lightgrey;
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 100px;
+}
+#login {
+    width: 500px;
+    margin: 20px;
+    padding: 22px;
+    background-color: lightgrey;
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 100px;
+}
+input[type = text] {
+    padding: 3px 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 250px;
+    box-sizing: border-box;
+}
+input[type = password] {
+    padding: 3px 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 250px;
+    box-sizing: border-box;
+}
+input[type = email] {
+    padding: 3px 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 250px;
+    box-sizing: border-box;
+}
